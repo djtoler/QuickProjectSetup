@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-sudo echo "Project name?"
-sudo read Project
-sudo echo "Project created: $Project"
+echo "Project name?"
+# read Project
+# echo "Project created: $Project"
 # echo "React or HBS? (Type r or h)"
 # read Client
 # echo "Client is $Client"
