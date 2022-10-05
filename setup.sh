@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+
+curl https://raw.githubusercontent.com/djtoler/QuickProjectSetup/main/setup.sh | sudo bash
 # echo "Project name?"
 # read Project
 # echo "Project created: $Project"
