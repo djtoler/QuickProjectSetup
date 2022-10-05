@@ -1,0 +1,1 @@
+curl https://https://raw.githubusercontent.com/djtoler/Bash-Script-Project-Setup/main/TS_PJ_Setup.sh | sudo bash
