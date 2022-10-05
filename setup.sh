@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 echo "Project name?"
 read Project
 echo "Project created: $Project"
