@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-echo "Project name?"
-read Project
-echo "Project created: $Project"
-mkdir "$Project"
-cd "$Project"
+# echo "Project name?"
+# read Project
+# echo "Project created: $Project"
+mkdir "$2"
+cd "$2"
 
 mkdir server
 
