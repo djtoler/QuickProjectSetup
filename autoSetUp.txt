@@ -1,1 +1,1 @@
-curl https://raw.githubusercontent.com/djtoler/QuickProjectSetup/main/setup.sh | sudo bash
+curl https://raw.githubusercontent.com/djtoler/QuickProjectSetup/main/setup.sh | sudo bash -s "test5"

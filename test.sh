@@ -2,9 +2,11 @@
 
 #make sure systctl,, wget gnupg are installed first
 
-echo "
-  NODE & NPM
-"
+# echo "
+#   NODE & NPM
+# "
+
+# curl https://raw.githubusercontent.com/djtoler/QuickProjectSetup/main/setup.sh | sudo bash -s "test5"
 
 # # add nodejs 16 ppa from nodesource
 # curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
