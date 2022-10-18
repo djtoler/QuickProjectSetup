@@ -1,1 +1,0 @@
-curl https://raw.githubusercontent.com/djtoler/QuickProjectSetup/main/setup.sh | sudo bash -s "test5" "yt1"
