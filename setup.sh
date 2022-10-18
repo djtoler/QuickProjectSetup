@@ -83,7 +83,11 @@ git remote add origin https://github.com/djtoler/$1.git
 git branch -M main
 git push -u origin main
 
-npx create-react-app client
-git add .
-git commit -m"add front end"
+npx create-react-app clientgit init 
+touch README.MD
+git add . 
+git commit -m"initial express project start"
+gh repo create $1 --private
+git remote add origin https://github.com/djtoler/$1.git
+git branch -M main
 git push -u origin main

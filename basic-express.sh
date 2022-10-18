@@ -22,13 +22,13 @@ npm i mongoose express cors body-parser axios
 serverfilepath="/home/dj/server-files"
 cp "$serverfilepath"/express-server.js /home/dj/"$Project"/express-server.js
 
-mkdir server/configs
-cp "$serverfilepath"/express-mongoose.js /home/dj/"$Project"/server/configs/express-mongoose.js
+
+cp "$serverfilepath"/express.mongoose.js /home/dj/"$Project"/server/express.mongoose.js
 
 git init 
 touch README.MD
 git add . 
-git commit -m "initial express project start"
+git commit -m"initial express project start"
 gh repo create $1 --private
 git remote add origin https://github.com/djtoler/$1.git
 git branch -M main
