@@ -7,7 +7,6 @@ mkdir "$Project"
 cd "$Project"
 
 mkdir server
-mkdir server/configs
 
 touch .gitignore
 echo "node_modules/" >> .gitignore
@@ -23,6 +22,7 @@ npm i mongoose express cors body-parser axios
 serverfilepath="/home/dj/server-files"
 cp "$serverfilepath"/express-server.js /home/dj/"$Project"/express-server.js
 
+mkdir server/configs
 cp "$serverfilepath"/express-mongoose.js /home/dj/"$Project"/server/configs/express-mongoose.js
 
 git init 
