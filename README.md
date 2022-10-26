@@ -1,1 +1,1 @@
-<p align="center"><img src="https://linuxbashscripts1.s3.amazonaws.com/Green+Best+Day+Ever+Wedding+Banner+Print.gif" alt="Alt text" title="Optional title"></p>
+![](https://github.com/djtoler/QuickProjectSetup/blob/main/Green%20Best%20Day%20Ever%20Wedding%20Banner%20Print.gif)
