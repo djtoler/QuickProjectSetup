@@ -37,9 +37,11 @@ I copy file name into the command line followed by a single argument and I autom
 |![Automated Server & Database Deployment](https://linuxbashscripts1.s3.amazonaws.com/automatedserverdbs.PNG) |![Automated GitHub Repo Deployment ](https://linuxbashscripts1.s3.amazonaws.com/gianduiauto.PNG)|
 |Automated Dependency Installation and package.JSON configuration | Automated Development Infastructure Deployment |
 |:-:|:-:|
-|![Automated Dependency Installation and package.JSON configuration](https://linuxbashscripts1.s3.amazonaws.com/createjsonpackages.PNG) |![Automated Development Infastructure Deployment  ](https://linuxbashscripts1.s3.amazonaws.com/infrastructureauto.PNG)|
+|![Automated Dependency Installation and package.JSON configuration](https://linuxbashscripts1.s3.amazonaws.com/createjsonpackages.PNG) |![Automated Development Infastructure Deployment  ](https://linuxbashscripts1.s3.amazonaws.com/infrastructureauto.PNG)| 
 
-|![Automated Project Successfully Built and Deployed to Github](https://linuxbashscripts1.s3.amazonaws.com/finished.PNG)|
+|Automated Project Successfully Built and Deployed to Github | Ready to Start Coding |
+|:-:|:-:|
+|![Automated Project Successfully Built and Deployed to Github](https://linuxbashscripts1.s3.amazonaws.com/finished.PNG) |![Ready to Start Coding](https://github.com/djtoler/QuickProjectSetup/blob/main/startcoding.gif)|
 
 My next step in building out these automated project workflow scripts for my development tool-kit, I will address the inventory/over-production aspects of waste that are produced in this particular automation script. 
 
