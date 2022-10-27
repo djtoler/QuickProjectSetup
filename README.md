@@ -4,6 +4,8 @@
 |Linux/Bash Project Scripting Automation|Vehicle Frame Building Automation|
 |:-:|:-:|
 |![put text here](https://linuxbashscripts1.s3.amazonaws.com/833e83be1b99e5f801118bc30d58642e.gif) |![7 Forms of Waste Explained](https://linuxbashscripts1.s3.amazonaws.com/HelplessSimpleAdmiralbutterfly-size_restricted.gif )|
+
+### Automation and productivity optimization in automotive manfacturing has a lot of overlap in software engineering. 
 <br> 
 <img align="right" width="200" height="200" src="https://linuxbashscripts1.s3.amazonaws.com/giphy.gif">
 
