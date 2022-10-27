@@ -5,7 +5,6 @@
 # echo "
 #   NODE & NPM
 # "
-
 # curl https://raw.githubusercontent.com/djtoler/QuickProjectSetup/main/setup.sh | sudo bash -s "test5"
 
 # # add nodejs 16 ppa from nodesource
